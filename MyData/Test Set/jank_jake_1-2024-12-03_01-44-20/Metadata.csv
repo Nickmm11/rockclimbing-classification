@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,iPad Air (5th generation),1733276660534,2024-12-03_01-44-20,America/New_York,ios,1.39,8cbdaf1f-cf48-4b3f-a098-ae14a31eef58,Headphone|Annotation,10|,false
